@@ -18,6 +18,12 @@ class Programa
         idade = (5 - 2) * 3;
 
         Console.WriteLine(idade);
+        Console.WriteLine("Digite sua idade");
+        Console.ReadLine();
+
+        Console.WriteLine();
+
+
     }
 
 
